@@ -22,9 +22,9 @@ Nothing suggests a mismatch: the tree was clean at the commit above, and the doc
 |              |                                                                                                  |
 |--------------|--------------------------------------------------------------------------------------------------|
 | Repository   | <code>thorwhalen/wads-scratch-62</code>                                                          |
-| Run          | <a href="https://github.com/thorwhalen/wads-scratch-62/actions/runs/38475053158">38475053158</a> |
+| Run          | <a href="https://github.com/thorwhalen/wads-scratch-62/actions/runs/38475068434">38475068434</a> |
 | Ref          | <code>refs/heads/main</code>                                                                     |
-| Event commit | <code>4ff5b279395ead4172b2682ba346e1cee6741a10</code> (in the history of the built commit)       |
+| Event commit | <code>7f4256917f1aab5f57d3c289bca45fe1b44ba60f</code> (in the history of the built commit)       |
 
 ## Tools
 
