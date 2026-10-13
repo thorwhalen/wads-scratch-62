@@ -1,0 +1,19 @@
+# wads-scratch-62
+
+> Scratch repo proving the skip-publish/skip-pages markers (i2mint/wads#62). Safe to delete.
+
+
+## Pages
+
+- [wads-scratch-62](index.html.md): Scratch repo proving the &#96;&#91;skip publish&#93;&#96; / &#96;&#91;skip github-pages&#93;&#96; markers of i2mint/wads#62 on real ...
+- [API reference](api.html.md): | &#96;wads_scratch_62&#96;   | Scratch package proving the &#91;skip publish&#93; / &#91;skip github-pages&#93; markers (i2...
+- [wads_scratch_62](_autosummary/wads_scratch_62.html.md): Scratch package proving the &#91;skip publish&#93; / &#91;skip github-pages&#93; markers (i2mint/wads#62). Safe to d...
+- [About this build](about-this-build.html.md): This documentation was built on &#42;&#42;2026-10-13 22:03 UTC&#42;&#42; from commit &lt;a href="https://github.com/tho...
+
+## Optional
+
+- [wads-scratch-62.md](wads-scratch-62.md): Complete documentation in a single file.
+
+## Build
+
+- [build_info.json](build_info.json): build provenance (commit, version, tool versions, whether the docs match the package)

@@ -1,0 +1,12 @@
+# wads-scratch-62
+
+> Scratch repo proving the skip-publish/skip-pages markers (i2mint/wads#62). Safe to delete.
+
+
+## Pages in this subsection
+
+- [wads_scratch_62](wads_scratch_62.html.md): Scratch package proving the &#91;skip publish&#93; / &#91;skip github-pages&#93; markers (i2mint/wads#62). Safe to d...
+
+## Optional
+
+- [Top-level llms.txt](../llms.txt): Complete documentation index.

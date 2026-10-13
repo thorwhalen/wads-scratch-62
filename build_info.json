@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "built_at": "2026-10-13T22:03:51Z",
+  "package": {
+    "name": "wads-scratch-62",
+    "version": "0.0.1",
+    "display_name": "wads-scratch-62",
+    "source": "pyproject.toml"
+  },
+  "git": {
+    "available": true,
+    "commit": "574a3efec0c2841d0f9a4075ccb06851d04b25eb",
+    "short_commit": "574a3ef",
+    "branch": "main",
+    "tags": [],
+    "dirty": false,
+    "remote_url": "https://github.com/thorwhalen/wads-scratch-62",
+    "commit_url": "https://github.com/thorwhalen/wads-scratch-62/commit/574a3efec0c2841d0f9a4075ccb06851d04b25eb",
+    "error": null
+  },
+  "ci": {
+    "provider": "github",
+    "repository": "thorwhalen/wads-scratch-62",
+    "sha": "4ff5b279395ead4172b2682ba346e1cee6741a10",
+    "sha_in_history": true,
+    "ref": "refs/heads/main",
+    "ref_name": "main",
+    "run_id": "38475053158",
+    "run_url": "https://github.com/thorwhalen/wads-scratch-62/actions/runs/38475053158",
+    "server_url": "https://github.com"
+  },
+  "tools": {
+    "epythet": "0.2.17",
+    "sphinx": "9.1.0",
+    "docutils": "0.22.4",
+    "python": "3.12.15"
+  },
+  "config": {
+    "theme": "auto",
+    "html_theme": "sphinxawesome_theme",
+    "accent": "#91314b",
+    "mode": "auto",
+    "api_generator": "autosummary",
+    "ignore": [
+      "tests/",
+      "scrap/",
+      "examples/"
+    ],
+    "agent_outputs": true,
+    "aggregates": [
+      "md"
+    ],
+    "ai_artifacts": true,
+    "provenance": true,
+    "docs_dir": "docsrc"
+  },
+  "site": {
+    "modules_documented": 1,
+    "objects_documented": 1
+  },
+  "pypi": {
+    "checked": true,
+    "latest": null,
+    "relation": "unknown",
+    "error": null
+  },
+  "reproduce": "git clone https://github.com/thorwhalen/wads-scratch-62 && cd wads-scratch-62\ngit checkout 574a3efec0c2841d0f9a4075ccb06851d04b25eb\npip install \"epythet==0.2.17\"\nepythet quickstart . --ignore tests/ scrap/ examples/",
+  "warnings": [],
+  "alignment": {
+    "aligned": true,
+    "notes": []
+  }
+}

@@ -1,0 +1,12 @@
+﻿wads\_scratch\_62
+=================
+
+.. automodule:: wads_scratch_62
+
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+   
+      answer
+   
