@@ -1,0 +1,13 @@
+# Scratch: runs the reusable workflow from the i2mint/wads#62 branch.
+# No PyPI secret exists here, so a publish job that runs fails at upload:
+# what is being checked is whether each job RAN or was SKIPPED.
+name: Continuous Integration
+on: [push, pull_request]
+jobs:
+  ci:
+    uses: i2mint/wads/.github/workflows/uv-ci.yml@feat/62-skip-publish-pages-markers
+    permissions:
+      contents: write
+      pages: write
+    secrets:
+      PYPI_PASSWORD: ${{ secrets.PYPI_PASSWORD }}
